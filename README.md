@@ -2,6 +2,8 @@
 
 Arquivo de teste de virtual env, library e requests.
 
+[![Build Status](https://travis-ci.org/kelvin-torres/libpythonpro.svg?branch=master)](https://travis-ci.org/kelvin-torres/libpythonpro)
+
 Para instalar:
 
 ```console
